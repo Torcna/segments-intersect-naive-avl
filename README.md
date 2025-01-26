@@ -38,8 +38,8 @@
 
 Также, для использования собственных данных, можно передавать файлы:
 ```bash
-AIAS_s.exe source_folder/sample.txt
-AIAS_s.exe source_folder/sample2.txt
+AIAS_s.exe sample.txt
+AIAS_s.exe sample2.txt
 ```
 Файлы sample.txt и sample2.txt содержат примеры отрезков, которые можно использовать для тестирования.
 Вы можете создать свои отрезки в этом формате, следуя образцу.
